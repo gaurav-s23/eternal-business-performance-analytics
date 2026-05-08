@@ -39,11 +39,15 @@ The challenge was to:
 
 <img width="100%" alt="Executive KPI Dashboard" src="screenshots/dashboard_overview.png">
 
+The executive dashboard provides a consolidated overview of major business KPIs including NOV, Adjusted Revenue, EBITDA, and Closing Cash. It also highlights YoY and QoQ growth trends across the business.
+
 ---
 
 ## Segment Performance Scorecard
 
-<img width="100%" alt="Segment Performance Scorecard" src="screenshots/scorecard.png">
+<img width="100%" alt="Segment Performance Scorecard" src="screenshots/segment_scorecard.png">
+
+The scorecard compares operational performance across Zomato, Blinkit, District, and Hyperpure using NOV growth, EBITDA contribution, profitability status, and margin analysis.
 
 ---
 
@@ -51,14 +55,33 @@ The challenge was to:
 
 <img width="100%" alt="NOV Trend Analysis" src="screenshots/nov_trend.png">
 
+This visual tracks segment-wise Net Order Value (NOV) trends across multiple quarters to identify growth momentum and operational scale expansion.
+
 ---
 
 ## Business Segment Mix Analysis
 
-<img width="100%" alt="Segment Mix Analysis" src="screenshots/segment_mix.png">
+<img width="70%" alt="Business Segment Mix Analysis" src="screenshots/segment_mix.png">
+
+The donut chart highlights the Q4FY26 contribution mix across major business segments, showing Blinkit as the largest contributor to overall NOV growth.
 
 ---
 
+## Blinkit Store Expansion Analysis
+
+<img width="80%" alt="Blinkit Store Growth" src="screenshots/blinkit_store_growth.png">
+
+This analysis tracks Blinkit’s rapid store expansion strategy and operational scaling across quarterly periods.
+
+---
+
+## Consolidated Cash Flow Analysis
+
+<img width="100%" alt="Cash Flow Analysis" src="screenshots/cashflow_analysis.png">
+
+The cash flow dashboard visualises EBITDA contribution, capex impact, treasury income, and net cash movement for Q4FY26.
+
+---
 # Key Features
 
 * Executive KPI scorecards
